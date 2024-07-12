@@ -1,6 +1,6 @@
-# dataset_code
+# dataset
 
-1. Dataset description
+Dataset description
 
 	corn0~5 is the corn dataset
 
